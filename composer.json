@@ -1,0 +1,24 @@
+{
+    "name": "sbarbosa115/php-skeleton",
+    "description": "TThis is an empty skeleton to create a new component based project on PHP.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sergio Barbosa",
+            "email": "sbarbosa115@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/validation": "5.1.*"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "scripts": {
+        "post-install-cmd": "mkdir src"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
