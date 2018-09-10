@@ -14,7 +14,7 @@ This is an API test to get data from SpaceX API and XKCD
 
 1. Clone the repo. 
 
-    ```clone https://github.com/sbarbosa115/php-skeleton.git``` 
+    ```clone https://github.com/sbarbosa115/153659323.git``` 
 
 2. Install phpunit dependencies.
 
