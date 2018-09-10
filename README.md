@@ -31,7 +31,6 @@ Web API
     * sourceId (String) Required, Values supported: [comics, space], 
     * limit (String) Required, [integer > 1], 
     * year (String) Required, [integer, > 2000]
- * Return JSON with results.
  * Call GET Example: 
     * ```/index.php?sourceId=space&limit=1&year=2014```
     * ```/index.php?sourceId=comics&limit=1&year=2014```
